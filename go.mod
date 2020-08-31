@@ -11,8 +11,8 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/gliderlabs/ssh v0.1.2-0.20181113160402-cbabf5414432
 	github.com/gojuno/minimock/v3 v3.0.8
-	github.com/google/go-cmp v0.5.2
-	github.com/google/go-tpm v0.2.1-0.20200615092505-5d8a91de9ae3
+	github.com/google/go-cmp v0.5.4
+	github.com/google/go-tpm v0.3.3-0.20210409082102-d3310770bfec
 	github.com/google/goexpect v0.0.0-20191001010744-5b6988669ffa
 	github.com/google/goterm v0.0.0-20190703233501-fc88cf888a3f
 	github.com/insomniacslk/dhcp v0.0.0-20210314223004-28f74147e2e8
